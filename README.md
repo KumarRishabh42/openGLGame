@@ -6,4 +6,4 @@ Openworld OpenGL Game made as part of Graphics course which Explores the concept
 Based on GLUT library . 
 =======================
 
-Runs on *nix(Mac needs an addition library and small addition to code ) machine 
+Runs on *nix(Mac needs an additional library and small addition to code ) machine 
